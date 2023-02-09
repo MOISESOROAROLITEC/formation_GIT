@@ -2,3 +2,4 @@ fichierde test
 je modifie le texte du fichier test
 Faire des tests git
 configurer plus de parametre git
+je viens de mettre le code sur git
