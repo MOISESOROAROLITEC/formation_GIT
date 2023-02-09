@@ -1,2 +1,3 @@
 information du projet git
 mise a jour des info
+je doit restorer test.txt
