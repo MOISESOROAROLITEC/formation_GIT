@@ -1,5 +1,5 @@
 #Tout les fichier .log
-*.log
+#*.log
 
 #Tout les fichiers temporaires
 #/temp/
