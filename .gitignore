@@ -2,6 +2,6 @@
 *.log
 
 #Tout les fichiers temporaires
-/temp/
+#/temp/
 
 #.gitignore
