@@ -3,3 +3,4 @@ mise a jour des info
 je doit restorer test.txt
 ajout une new information
 le segond commit
+voire la difference enter les fichiers
