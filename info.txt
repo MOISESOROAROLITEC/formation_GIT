@@ -2,3 +2,4 @@ information du projet git
 mise a jour des info
 je doit restorer test.txt
 ajout une new information
+le segond commit
