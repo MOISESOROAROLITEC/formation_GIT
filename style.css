@@ -1,3 +1,12 @@
-p{color: red;}
-h1{text-align: center;}
-div{transition: 10ms;}
+p {
+	color: red;
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+div {
+	transition: 10ms;
+}
